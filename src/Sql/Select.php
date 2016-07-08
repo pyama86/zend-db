@@ -50,7 +50,7 @@ class Select extends AbstractPreparableSql
     const COMBINE_UNION = 'union';
     const COMBINE_EXCEPT = 'except';
     const COMBINE_INTERSECT = 'intersect';
-    const FORUODATE = 'forupdate';
+    const FOR_UPDATE = 'forupdate';
     /**#@-*/
 
     /**
